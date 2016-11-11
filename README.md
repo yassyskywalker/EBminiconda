@@ -1,0 +1,2 @@
+# EBminiconda
+Elastic Beanstalk用のminicondaのDockerfile
